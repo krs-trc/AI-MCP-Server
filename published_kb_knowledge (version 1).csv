@@ -1,0 +1,567 @@
+Number,Version,Short description,Author,Category,Workflow,Updated
+KB0000001,1.0,Sales Force Automation is DOWN. Notification about downtime affecting Sales Force Automation services.,Wayne Webb,Announcements,Published,2022-12-05 20:46:33
+KB0000002,1.0,Email Interruption Tonight at 11:00 PM Eastern. Alert regarding scheduled email service interruption.,Wayne Webb,Announcements,Published,2022-12-05 20:46:33
+KB0000003,1.0,Guide to managing settings in Internet Explorer 10 on Windows 8.,Wayne Webb,IE,Published,2022-12-05 20:46:33
+KB0000004,1.0,Signature Authority Policy. Defines who has authority to sign contracts and documents on behalf of the company.,System Administrator,Sales,Published,2023-05-10 02:03:49
+KB0000005,1.0,"Overview of Excel functionality including formulas, formatting, and data analysis tools.",Boris Catino,Excel,Published,2014-12-19 07:56:23
+KB0000006,1.0,Tips for identifying and removing spyware and viruses from your computer.,Wayne Webb,Security,Published,2022-12-05 20:46:33
+KB0000007,1.0,"What is a cookie?  Explains what cookies are, how they work, and their role in web browsing.",Wayne Webb,FAQ,Published,2022-12-05 20:46:33
+KB0000008,1.0,Instructions for configuring VPN access on Apple devices.,Wayne Webb,Apple,Published,2014-12-19 07:55:30
+KB0000009,1.0,"Are Copyrighted Files Illegal to Have On My Computer? Clarifies the legality of possessing copyrighted files on personal computers.
+  ",Wayne Webb,Policies,Published,2022-12-05 20:46:33
+KB0000010,1.0,"Details warranty coverage for SCI and DeSC computers, including eligibility and support.",Wayne Webb,Dell,Published,2022-12-05 20:46:33
+KB0000011,1.0,How to Deal with Spam? Tips for identifying and managing spam emails to protect your inbox.,Ron Kettering,Email,Published,2014-12-19 07:54:36
+KB0000012,1.0,Explains where to find software updates and new releases for your system or applications.,Sam Sorokin,How To,Published,2022-12-05 20:46:33
+KB0000013,1.0,How do I quit an application  that isn't responding? Ways to solve an unresponsive application.,Sam Sorokin,Mac OS X,Published,2022-12-05 20:46:33
+KB0000014,1.0,"Can I upgrade my operating system? What are the system requirements? Explains how to upgrade your operating system and check system requirements.
+  ",Sam Sorokin,How To,Published,2022-12-05 20:46:33
+KB0000015,1.0,Instructions for creating and deleting user accounts in Windows.,Sam Sorokin,How To,Published,2022-12-05 20:46:33
+KB0000016,1.0,"Overview of Windows 10 features, system requirements, and upgrade options.",Boris Catino,Windows,Published,2022-12-05 20:46:33
+KB0000017,1.0,What is the Windows key?  Describes the function and uses of the Windows key on a keyboard.,Boris Catino,Windows,Published,2022-12-05 20:46:33
+KB0000018,1.0,"About Windows Vista. Overview of Windows Vista features, system requirements, and support status.",Boris Catino,Windows Vista,Published,2022-12-05 20:46:33
+KB0000019,1.0,Guide to restoring your computer to a previous configuration using system restore tools.,Boris Catino,Windows,Published,2022-12-05 20:46:33
+KB0000020,1.0,Guidance on whether to upgrade to Windows 8.x based on features and compatibility.,Boris Catino,Windows 8,Published,2022-12-05 20:46:33
+KB0000021,1.0,About Windows 7. Overview of Windows 7 features and support lifecycle.,Boris Catino,Windows 7,Published,2022-12-05 20:46:33
+KB0000022,1.0,Steps to set or change your default web browser in Windows.,Boris Catino,Windows,Published,2022-12-05 20:46:33
+KB0000024,1.0,Instructions for creating a personalized email signature in Outlook 2010.,Ron Kettering,Outlook 2010,Published,2022-12-05 20:46:33
+KB0000025,1.0,Automatic Replies (Out Of Office). Guide to setting up automatic out-of-office replies in Outlook 2010.,Ron Kettering,Outlook 2010,Published,2022-12-05 20:46:33
+KB0000026,1.0,Create And Edit A Contact Group. Instructions for creating and editing contact groups in Outlook 2010.,Ron Kettering,Outlook 2010,Published,2022-12-05 20:46:33
+KB0000027,1.0,Step-by-step guide to importing an address book into Outlook 2010 using a CSV file.,Ron Kettering,Outlook 2010,Published,2022-12-05 20:46:33
+KB0000028,1.0,Explains phishing scams and provides tips to recognize and avoid them.,Ron Kettering,Email,Published,2022-12-05 20:46:33
+KB0000029,1.0,What is Spam? Defines spam and provides tips for identifying and managing unwanted emails.,Ron Kettering,Email,Published,2022-12-05 20:46:33
+KB0000030,1.0,Deleted Email Recovery. Instructions for recovering deleted emails in Outlook 2010.,Ron Kettering,Outlook 2010,Published,2022-12-05 20:46:33
+KB0000031,1.0,Step-by-step guide to locating the MAC address of your Ethernet or wireless interface.,Sam Sorokin,How To,Published,2022-12-05 20:46:33
+KB0000032,1.0,Getting Around in Windows. Tips for navigating and using Windows efficiently.,System Administrator,Java,Published,2022-12-05 20:46:33
+KB0000033,1.0,"Explanation and steps in Eclipse configuration for Android development.
+  ",System Administrator,Android,Published,2022-12-05 20:46:33
+KB0000059,1.0,"Instructions for updating personal details such as address, phone number, and emergency contacts.",System Administrator,FAQ,Published,2021-11-22 00:45:42
+KB0000090,1.0,Security software installed on individual devices to monitor and control incoming and outgoing network traffic based on user-defined rules.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:42
+KB0000091,1.0,"Unauthorized attempt to recover or guess passwords using techniques such as brute force, dictionary attacks, or rainbow tables.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000092,1.0,"VPN protocol that encapsulates PPP frames for secure data transmission, though considered outdated due to known vulnerabilities.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:43
+KB0000093,1.0,"Set of rules governing data exchange between devices in a network, ensuring structured and reliable communication.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:43
+KB0000094,1.0,"Action taken by a system or team in reaction to an event, request, or incident, often part of a broader incident management process.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000095,1.0,Security framework that enforces access control policies using predefined rule sets to manage permissions and system behavior.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000096,1.0,"Fundamental building block of digital circuits that performs basic logical operations like AND, OR, and NOT.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000097,1.0,"External event such as floods, earthquakes, or storms that can disrupt IT infrastructure and require contingency planning.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000098,1.0,"Unit of data transmitted across a network, containing headers and payload used for routing and delivery.",Security Incident Admin,Data,Published,2025-04-21 16:18:43
+KB0000099,1.0,Network scanning technique that sends ICMP Echo Requests to identify active hosts and assess basic connectivity.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000100,1.0,"Type of malware that attaches itself to executable files, spreading by infecting other programs during execution.",Security Incident Admin,Software,Published,2025-04-21 16:18:43
+KB0000101,1.0,Centralized database in Windows systems that stores configuration settings and options for the operating system and installed applications.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000102,1.0,"Network device that forwards data packets between computer networks, directing traffic based on IP addresses and routing protocols.",Security Incident Admin,Network,Published,2025-04-21 16:18:43
+KB0000103,1.0,Hardware devices used to monitor network traffic by copying data streams for analysis without disrupting the flow.,Security Incident Admin,Network,Published,2025-04-21 16:18:43
+KB0000104,1.0,"Malicious software designed to harm, exploit, or compromise systems, including viruses, worms, trojans, ransomware, and spyware.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000105,1.0,"High-level programming language known for its text processing capabilities, often used in scripting and automation.",Security Incident Admin,Software,Published,2025-04-21 16:18:42
+KB0000106,1.0,"Software flaw that occurs when the outcome of a process depends on the timing or sequence of uncontrollable events, potentially leading to security issues.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:42
+KB0000107,1.0,Widely used public key encryption algorithm that enables secure data transmission and digital signatures.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:42
+KB0000108,1.0,"Subdivision of a network or memory space used to organize data, improve performance, or enforce security boundaries.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:42
+KB0000109,1.0,"Security principle where users and systems are granted only the minimum access necessary to perform their tasks, reducing risk.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:42
+KB0000110,1.0,"Metrics used to evaluate the success or impact of a system, process, or security control in achieving its intended outcomes.",Security Incident Admin,Hack,Published,2025-04-21 16:18:42
+KB0000111,1.0,Unauthenticated connection to a Windows system that can expose system information or be exploited for reconnaissance.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:42
+KB0000112,1.0,Portion of a data packet or malware that carries the actual content or malicious code intended for execution or delivery.,Security Incident Admin,Data,Published,2025-04-21 16:18:42
+KB0000113,1.0,Logical access point used by network protocols to identify specific services or applications running on a device.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000114,1.0,"Cryptographic method where a public key is used to encrypt data and a corresponding private key is used to decrypt it, enabling secure communication.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:43
+KB0000115,1.0,"Server that sits between client devices and backend servers, forwarding requests and providing benefits like load balancing, caching, and security.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000116,1.0,Protocol developed to secure online credit card transactions by encrypting payment information and authenticating parties involved.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:43
+KB0000117,1.0,"Physical card embedded with a microchip used for secure authentication, data storage, and access control in enterprise environments",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000118,1.0,"Security exploit where the call stack is manipulated, often through buffer overflows, to execute arbitrary code or alter program flow.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:43
+KB0000119,1.0,"Process of detecting hidden information embedded within digital files, often used to uncover covert communication or data exfiltration.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000120,1.0,Logging protocol used to collect and transmit system event messages from devices and applications for monitoring and analysis.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000121,1.0,Networking parameter that limits the lifespan of a data packet by specifying the number of hops it can take before being discarded.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:44
+KB0000122,1.0,"Network scanning method that targets User Datagram Protocol (UDP) ports to identify open services, often used in vulnerability assessments.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000123,1.0,Security concern involving unauthorized scanning for wireless networks by driving through areas with a device to detect open or vulnerable Wi-Fi access points.,Security Incident Admin,Network,Published,2025-04-21 16:18:44
+KB0000124,1.0,"Temporary communication exchange between two systems or applications, often involving authentication and state tracking.",Security Incident Admin,Network,Published,2025-04-21 16:18:44
+KB0000125,1.0,Manipulative tactics used by attackers to trick individuals into revealing confidential information or performing unsafe actions.,Security Incident Admin,Hack,Published,2025-04-21 16:18:44
+KB0000126,1.0,Firewall technique that tracks the state of active connections and makes decisions based on context rather than just packet filtering.,Security Incident Admin,Network,Published,2025-04-21 16:18:44
+KB0000127,1.0,"Encryption method where the same key is used for both encryption and decryption, requiring secure key distribution.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:45
+KB0000128,1.0,"Any potential danger that could exploit a vulnerability to cause harm to systems, data, or operations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:45
+KB0000129,1.0,Networking technique that combines multiple communication channels to increase bandwidth or support multiple VLANs over a single link.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:45
+KB0000130,1.0,"Security system designed to monitor and block malicious activity in voice communication networks, such as VoIP.",Security Incident Admin,Denial of Service,Published,2025-04-21 16:18:45
+KB0000131,1.0,"Reference to applications or programs installed on a system, potentially involving installation, updates, licensing, or troubleshooting.",Security Incident Admin,Data,Published,2025-04-21 16:18:44
+KB0000132,1.0,"Security feature in Unix-based systems where encrypted user passwords are stored in a separate, restricted-access file to enhance protection.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:44
+KB0000133,1.0,"Numerical identifier used in IP networking to divide an IP address into network and host portions, enabling efficient routing and segmentation.",Security Incident Admin,Network,Published,2025-04-21 16:18:43
+KB0000134,1.0,Security tool used in Unix systems to control access to network services by filtering incoming requests based on IP addresses and hostnames.,Security Incident Admin,Software,Published,2025-04-21 16:18:43
+KB0000135,1.0,Cryptographic protocol that ensures secure communication over networks by encrypting data between client and server.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:44
+KB0000136,1.0,"Connectionless transport protocol used for fast, lightweight communication, often in streaming or gaming applications.",Security Incident Admin,Data,Published,2025-04-21 16:18:44
+KB0000137,1.0,"Unauthorized interception of communications, often involving phone lines or network traffic, posing legal and privacy concerns.",Security Incident Admin,Data,Published,2025-04-21 16:18:44
+KB0000138,1.0,"Digital or behavioral pattern used to identify known threats, such as malware or intrusions, often used in antivirus and IDS systems.",Security Incident Admin,Network,Published,2025-04-21 16:18:44
+KB0000139,1.0,"Routing technique that prevents a router from advertising a route back in the direction from which it was learned, reducing routing loops.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000140,1.0,"Type of Ethernet cable used to connect different devices (e.g., switch to router) with matching pin configurations on both ends.",Security Incident Admin,Network,Published,2025-04-21 16:18:44
+KB0000141,1.0,"Unauthorized alteration or interference with hardware, software, or data, often with malicious intent or to bypass controls.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:44
+KB0000142,1.0,Physical or digital devices that generate or store authentication tokens used for secure access to systems or applications.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000143,1.0,"Reference to the Unix operating system, known for its stability, multitasking capabilities, and widespread use in enterprise and academic environments.",Security Incident Admin,Software,Published,2025-04-21 16:18:44
+KB0000144,1.0,"Technique in networking or operating systems that manages data flow or graphical display areas, often used to optimize performance.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:44
+KB0000145,1.0,"Exploit targeting a previously unknown vulnerability that has not yet been patched, posing significant risk to systems.",Security Incident Admin,Software,Published,2025-04-21 16:18:45
+KB0000146,1.0,"Small application or program, often embedded in a webpage, that performs specific functions within a larger software environment.",Security Incident Admin,Software,Published,2025-04-21 16:18:39
+KB0000147,1.0,"Individual or entity responsible for the integrity, security, and proper use of specific data assets within an organization.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:40
+KB0000148,1.0,"Mechanism that regulates who or what can view or use resources in a computing environment, based on policies and permissions.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:40
+KB0000149,1.0,"Process of systematically reviewing system activity, configurations, or access logs to ensure compliance, detect anomalies, and support investigations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000150,1.0,"Smallest unit of digital information, representing a binary value of 0 or 1, and forming the foundation of all computing operations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000151,1.0,"Performance issue where excessive or unnecessary data is stored in cache, potentially leading to memory exhaustion or degraded system behavior.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000152,1.0,"Specialized group responsible for managing cybersecurity incidents, coordinating response efforts, and sharing threat intelligence.",Security Incident Admin,Hack,Published,2025-04-21 16:18:40
+KB0000153,1.0,Process of collecting and summarizing data from multiple sources to produce consolidated insights or reports.,Security Incident Admin,Data,Published,2025-04-21 16:18:40
+KB0000154,1.0,"Network segment that separates internal systems from external-facing services, providing an added layer of security against external threats.",Security Incident Admin,Network,Published,2025-04-21 16:18:40
+KB0000155,1.0,"Logical grouping of network resources under a common name, often used in DNS or Active Directory environments for centralized management.",Security Incident Admin,Software,Published,2025-04-21 16:18:40
+KB0000156,1.0,"Process of converting data into a coded format to prevent unauthorized access, ensuring confidentiality during storage or transmission.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:40
+KB0000157,1.0,"Router configured to inspect and control traffic based on rules such as IP addresses, ports, or protocols, enhancing network security.",Security Incident Admin,Data,Published,2025-04-21 16:18:40
+KB0000158,1.0,Automated software testing technique that inputs random or malformed data to identify vulnerabilities or unexpected behavior in applications.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000159,1.0,"Small data file stored on a user's device by a website to retain session information, preferences, or tracking data.",Security Incident Admin,Data,Published,2025-04-21 16:18:40
+KB0000160,1.0,"Authentication method that uses digital certificates to verify user or device identity, often part of a public key infrastructure (PKI)",Security Incident Admin,Authentication,Published,2025-04-21 16:18:39
+KB0000161,1.0,"Simple authentication method where credentials are transmitted in plaintext, typically over HTTP, and often replaced by more secure alternatives.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:39
+KB0000162,1.0,"Strategic plan outlining how an organization will maintain operations during and after a disruption, ensuring resilience and recovery.",Security Incident Admin,Recovery Plan,Published,2025-04-21 16:18:39
+KB0000163,1.0,A device or application that initiates requests and receives services from a server in a networked environment.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000164,1.0,"Mathematical function used to encrypt, decrypt, or verify data integrity, forming the foundation of secure communications.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:39
+KB0000165,1.0,"Tools or processes that track system or user activity to detect anomalies, performance issues, or security threats.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000166,1.0,"Security principle ensuring that systems and data are accessible to authorized users when needed, without disruption.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000167,1.0,Special IP address used to send data to all devices on a network segment simultaneously.,Security Incident Admin,Data,Published,2025-04-21 16:18:39
+KB0000168,1.0,"Value calculated from a data set to detect errors during transmission or storage, ensuring data integrity.",Security Incident Admin,Data,Published,2025-04-21 16:18:39
+KB0000169,1.0,"Unauthorized communication paths that bypass normal security controls, often used to exfiltrate data or evade detection.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000170,1.0,"Process of removing protocol headers from a data packet as it moves up the OSI model layers, revealing the original payload.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:39
+KB0000171,1.0,"Security model that defines the rights of subjects (users or processes) over objects (files, systems) in a tabular format.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:39
+KB0000172,1.0,"Network of compromised devices controlled by an attacker, often used to launch coordinated attacks such as DDoS or spam campaigns.",Security Incident Admin,Denial of Service,Published,2025-04-21 16:18:39
+KB0000173,1.0,Intrusion detection system deployed on individual hosts to monitor and analyze local activity for signs of compromise.,Security Incident Admin,Data,Published,2025-04-21 16:18:40
+KB0000174,1.0,Security technique that blocks incoming packets with spoofed or invalid source addresses to prevent unauthorized access or attacks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000175,1.0,"Fundamental protocol used for addressing and routing data packets across networks, enabling communication between devices.",Security Incident Admin,Data,Published,2025-04-21 16:18:41
+KB0000176,1.0,"Core component of an operating system that manages system resources, hardware interactions, and process scheduling.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000177,1.0,"Authentication method that uses hashed credentials to enhance security during login, reducing exposure of plaintext passwords.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:41
+KB0000178,1.0,Legal and operational concept referring to the responsibility of organizations to take reasonable steps to protect assets and data.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000179,1.0,"Logged occurrence or action within a system or application, used for monitoring, auditing, or incident response.",Security Incident Admin,Network,Published,2025-04-21 16:18:42
+KB0000180,1.0,"Network attack or malfunction where excessive traffic overwhelms systems or bandwidth, leading to denial of service or degraded performance.",Security Incident Admin,Data,Published,2025-04-21 16:18:42
+KB0000181,1.0,"Free software project that provides open-source tools and operating system components, foundational to many Linux distributions.",Security Incident Admin,Software,Published,2025-04-21 16:18:42
+KB0000182,1.0,Password cracking technique that combines dictionary and brute-force methods to increase success rates.,Security Incident Admin,Hack,Published,2025-04-21 16:18:42
+KB0000183,1.0,"Global network of interconnected systems that enables data exchange, communication, and access to online resources.",Security Incident Admin,Network,Published,2025-04-21 16:18:42
+KB0000184,1.0,"International Telecommunication Union – Telecommunication Standardization Sector, responsible for global telecom standards and protocols.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:42
+KB0000185,1.0,"Access control method where permissions are explicitly defined in lists, specifying which users or roles can access specific resources.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:42
+KB0000186,1.0,"Network configuration where a device or system is connected to multiple networks, enhancing redundancy and routing flexibility.",Security Incident Admin,Network,Published,2025-04-21 16:18:42
+KB0000187,1.0,"Protocol used for transmitting web content between browsers and servers, forming the foundation of data exchange on the internet.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:41
+KB0000188,1.0,"Mathematical algorithms that convert input data into fixed-size hashes, used for data integrity, indexing, and cryptography.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:41
+KB0000189,1.0,"Network function that enables a device to pass traffic between different IP networks, often used in routers or gateways.",Security Incident Admin,Network,Published,2025-04-21 16:18:40
+KB0000190,1.0,Access control model where the data owner determines who can access specific resources and what operations they can perform.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:40
+KB0000191,1.0,"ICMP message sent to test network connectivity, commonly used in ping operations to verify if a host is reachable",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000192,1.0,Technique used by attackers to rapidly change DNS records to evade detection and maintain control over botnets or malicious domains.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000193,1.0,"Process or condition where data is split across non-contiguous storage locations, potentially impacting performance and efficiency.",Security Incident Admin,Data,Published,2025-04-21 16:18:41
+KB0000194,1.0,Decoy system or resource designed to attract attackers and monitor malicious activity without risking production assets.,Security Incident Admin,Software,Published,2025-04-21 16:18:41
+KB0000195,1.0,"Backup method that saves only the data changed since the last backup, reducing storage use and speeding up backup operations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000196,1.0,"Private network used within an organization to share information, resources, and services securely among employees.",Security Incident Admin,Network,Published,2025-04-21 16:18:41
+KB0000197,1.0,Cryptographic algorithm used to generate digital signatures for verifying the authenticity and integrity of messages or documents.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:41
+KB0000198,1.0,Shared library in Windows systems containing code and data that can be used by multiple programs simultaneously to reduce redundancy.,Security Incident Admin,Software,Published,2025-04-21 16:18:41
+KB0000199,1.0,"Flexible authentication framework used in network access control, supporting multiple authentication methods like certificates and smartcards.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:41
+KB0000200,1.0,"DNS process that resolves a domain name into its corresponding IP address, enabling network routing and access.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:41
+KB0000201,1.0,"Link-state routing protocol used to determine the most efficient path for data within IP networks, commonly used in enterprise environments.",Security Incident Admin,Data,Published,2025-04-21 16:18:42
+KB0000202,1.0,"Process or issue related to patching software or systems to fix vulnerabilities, improve performance, or maintain compliance.",Security Incident Admin,Software,Published,2025-04-21 16:18:48
+KB0000203,1.0,Ping of Death is a legacy denial-of-service attack that sends malformed or oversized ping packets to crash or destabilize target systems.,Security Incident Admin,Hack,Published,2025-04-21 16:18:48
+KB0000204,1.0,"Reference to private IP addressing schemes used within internal networks, typically not routable on the public internet.",Security Incident Admin,Network,Published,2025-04-21 16:18:49
+KB0000205,1.0,"Configuration or troubleshooting of Reflexive Access Control Lists (ACLs) in Cisco devices, used to dynamically permit return traffic based on outbound sessions.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000206,1.0,"Security concern involving a rootkit, a type of stealthy malware designed to hide its presence and gain privileged access to a system.",Security Incident Admin,Hack,Published,2025-04-21 16:18:49
+KB0000207,1.0,"Reference to server infrastructure, possibly involving setup, performance, maintenance, or role-specific configurations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000208,1.0,"Topic related to link-state routing protocols, which maintain a map of the network to determine optimal data paths.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000209,1.0,"Topic involving multicast networking, where data is transmitted from one sender to multiple receivers efficiently across a network.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000210,1.0,"Reference to a one-way function, a mathematical function that is easy to compute but difficult to reverse, commonly used in cryptographic algorithms.",Security Incident Admin,Hack,Published,2025-04-21 16:18:49
+KB0000211,1.0,"Concept of permutation, often used in cryptography or data processing to rearrange elements in a defined order.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000212,1.0,"Topic involving POP3, a protocol used by email clients to retrieve messages from a mail server, often in legacy or basic configurations.",Security Incident Admin,Standards,Published,2025-04-21 16:18:49
+KB0000213,1.0,"Reference to the Qaz worm, a type of malware that exploited Windows systems and allowed remote access through backdoor mechanisms.",Security Incident Admin,Network,Published,2025-04-21 16:18:49
+KB0000214,1.0,"Description of a risk-averse approach, emphasizing cautious decision-making and prioritization of security and stability over aggressive strategies.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000215,1.0,"System or application experiencing performance degradation due to excessive demand, often leading to slowdowns or failures.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:48
+KB0000216,1.0,"National Institute Of Standards And Technology (NIST) which is a U.S. agency that develops cybersecurity standards, guidelines, and best practices widely adopted across industries.",Security Incident Admin,Standards,Published,2025-04-21 16:18:48
+KB0000217,1.0,"Technique used in malware to change its code structure while retaining functionality, making it harder to detect through signature-based methods.",Security Incident Admin,Software,Published,2025-04-21 16:18:48
+KB0000218,1.0,"Component of public key cryptography used to encrypt data or verify digital signatures, enabling secure communication between parties.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:48
+KB0000219,1.0,"Reverse Lookup is a technique used to determine domain names or hostnames from IP addresses, often for network diagnostics or security investigations.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:48
+KB0000220,1.0,"Scavenging is an activity involving the recovery or reuse of discarded data or resources, sometimes with security implications if sensitive information is exposed.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:48
+KB0000221,1.0,"Malicious code is any code designed to harm, exploit, or compromise systems, including viruses, worms, trojans, and ransomware.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:48
+KB0000222,1.0,"Network mapping is the process of identifying devices, connections, and topology within a network to support monitoring, troubleshooting, or security assessments.",Security Incident Admin,Network,Published,2025-04-21 16:18:48
+KB0000223,1.0,"Basic authentication protocol that transmits usernames and passwords in plaintext, often replaced by more secure alternatives.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:48
+KB0000224,1.0,"Network protocol used to establish direct connections between two nodes, often for dial-up or VPN access, supporting authentication and compression.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:48
+KB0000225,1.0,Sensitive business data or intellectual property that is owned by an organization and protected from unauthorized disclosure or use.,Security Incident Admin,Data,Published,2025-04-21 16:18:48
+KB0000226,1.0,"Condition where system resources such as memory, CPU, or bandwidth are depleted, often due to misconfiguration or malicious activity.",Security Incident Admin,Hack,Published,2025-04-21 16:18:48
+KB0000227,1.0,Scanning activity targeting Remote Procedure Call (RPC) services to identify vulnerabilities or open ports that could be exploited.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:48
+KB0000228,1.0,"Malicious code embedded in software that triggers under specific conditions, potentially causing damage or unauthorized actions.",Security Incident Admin,Software,Published,2025-04-21 16:18:48
+KB0000229,1.0,"Reference to a security policy document or configuration, outlining rules and procedures for protecting systems and data.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000230,1.0,"Analysis of signals, possibly in the context of communications, cybersecurity, or intelligence gathering, to extract meaningful patterns or threats.",Security Incident Admin,Data,Published,2025-04-21 16:18:49
+KB0000231,1.0,"Concept or implementation of a state machine, a computational model used to design logic for systems that transition between defined states.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000232,1.0,"Use or management of symbolic links (symlinks), which are file system references that point to other files or directories.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000233,1.0,"Reference to Telnet, a legacy network protocol used for remote command-line access, often replaced due to security limitations.",Security Incident Admin,Standards,Published,2025-04-21 16:18:50
+KB0000234,1.0,"Security incident or concept involving Trojan Horse malware, which disguises itself as legitimate software to gain unauthorized access.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:50
+KB0000235,1.0,"Configuration or issue related to a voice firewall, which protects VoIP systems from threats like toll fraud or denial-of-service attacks.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:50
+KB0000236,1.0,"Reference to a zero-day vulnerability or exploit, which is unknown to the vendor and actively exploited before a fix is available.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000237,1.0,"Reference to the Simple Security Property in security models, which restricts read access to prevent unauthorized data exposure.",Security Incident Admin,Data,Published,2025-04-21 16:18:50
+KB0000238,1.0,"SQL Injection vulnerability or attack, where malicious SQL code is inserted into queries to manipulate or access databases.",Security Incident Admin,Data,Published,2025-04-21 16:18:50
+KB0000239,1.0,"Details or issues concerning the configuration, segmentation, or performance of a sub-network within the broader infrastructure",Security Incident Admin,Network,Published,2025-04-21 16:18:51
+KB0000240,1.0,"A TCP Half-Open Scan has been detected or initiated, often used in network diagnostics or security assessments to identify open ports.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:51
+KB0000241,1.0,"General reference to TCP, a core protocol in the Internet protocol suite, possibly related to configuration, troubleshooting, or performance.",Security Incident Admin,Data,Published,2025-04-21 16:18:51
+KB0000242,1.0,"Documentation or guidance related to contingency planning for users, including backup procedures, failover strategies, or emergency access protocols.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:51
+KB0000243,1.0,"Network sniffing activity or concerns, where data packets are intercepted and analyzed, potentially exposing sensitive information.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000244,1.0,"Security concern or detection of war dialing, an outdated technique where phone numbers are dialed to find modems or unsecured systems.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000245,1.0,"Configuration or monitoring of a spanning port (mirror port), used to replicate traffic for analysis or troubleshooting purposes.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000246,1.0,"Description of the store-and-forward technique, where data is temporarily stored before being forwarded to its destination, often used in messaging or networking.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000247,1.0,"Reference to T1 and T3 lines, types of leased telecommunications circuits used for high-speed data transmission.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000248,1.0,"Implementation or issue involving token-based access control, where authentication tokens are used to grant secure access to resources.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:49
+KB0000249,1.0,"Reference to a URL, the standard address format used to locate resources on the internet, potentially involving validation or parsing.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:49
+KB0000250,1.0,"Information or troubleshooting related to the WHOIS protocol, used for querying domain registration and ownership details.",Security Incident Admin,Network,Published,2025-04-21 16:18:50
+KB0000251,1.0,"Discussion or concern involving SHA-1 (Secure Hash Algorithm 1), a cryptographic hash function now considered deprecated due to vulnerabilities.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:50
+KB0000252,1.0,"Reference to SOCKS proxy protocol, used to route network packets between client and server through a proxy server for anonymity or access control.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:50
+KB0000253,1.0,"Security-related topic involving stealth techniques used to avoid detection, often in the context of malware or unauthorized access.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000254,1.0,"Topic involving synchronization of data, systems, or processes to ensure consistency and real-time alignment across platforms.",Security Incident Admin,Network,Published,2025-04-21 16:18:50
+KB0000255,1.0,"Identification or analysis of a threat vector, the path or method used by an attacker to gain unauthorized access to a system.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:50
+KB0000256,1.0,"Network tunneling techniques or issues, where data is encapsulated within another protocol to securely traverse incompatible networks.",Security Incident Admin,Data,Published,2025-04-21 16:18:50
+KB0000257,1.0,"Overview or issue related to Wireless Application Protocol (WAP), a standard for enabling mobile devices to access internet content and services.",Security Incident Admin,Standards,Published,2025-04-21 16:18:51
+KB0000258,1.0,"Dynamic web elements such as scripts, applets, or multimedia that enhance interactivity but may pose security risks if not properly managed.",Security Incident Admin,Software,Published,2025-04-21 16:18:45
+KB0000259,1.0,Process of gathering and analyzing information about competitors to inform strategic decisions and maintain market advantage.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000260,1.0,Background process that runs continuously on a system to perform tasks or services without direct user interaction.,Security Incident Admin,Software,Published,2025-04-21 16:18:46
+KB0000261,1.0,"A defined set of instructions or rules used to solve problems or perform computations, often foundational in software and cryptography.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000262,1.0,"Text or graphical display presented by a system, often used for identification, legal notices, or security warnings during login.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:46
+KB0000263,1.0,"Security vulnerability where a program writes more data to a buffer than it can hold, potentially allowing attackers to execute arbitrary code.",Security Incident Admin,Data,Published,2025-04-21 16:18:46
+KB0000264,1.0,"Type of network where a dedicated communication path is established between endpoints for the duration of a session, typical in traditional telephony.",Security Incident Admin,Network,Published,2025-04-21 16:18:46
+KB0000265,1.0,Study and practice of analyzing cryptographic systems to uncover weaknesses or decrypt information without access to the key.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:46
+KB0000266,1.0,Security strategy that layers multiple protective measures to reduce the likelihood of successful attacks and mitigate risks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000267,1.0,Comprehensive strategy outlining procedures for restoring systems and operations after a disruptive event or disaster.,Security Incident Admin,Recovery Plan,Published,2025-04-21 16:18:46
+KB0000268,1.0,"Response packet sent in reply to an ICMP Echo Request, commonly used in network diagnostics like the ping command.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000269,1.0,"File system architecture designed for improved performance and efficiency in data storage and retrieval, often used in UNIX-based systems.",Security Incident Admin,Data,Published,2025-04-21 16:18:46
+KB0000270,1.0,Network attack that manipulates overlapping IP fragments to bypass security filters or cause system instability.,Security Incident Admin,Hack,Published,2025-04-21 16:18:46
+KB0000271,1.0,Temporary storage area used to speed up data retrieval by storing frequently accessed information closer to the processor or application.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000272,1.0,"Authentication method using unique biological traits such as fingerprints, facial recognition, or iris scans to verify identity and grant access",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000273,1.0,Collection of IP networks and routers under a single administrative domain that presents a unified routing policy to the internet.,Security Incident Admin,Network,Published,2025-04-21 16:18:45
+KB0000274,1.0,Network transmission method where data is sent from one source to all devices within a network segment.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:45
+KB0000275,1.0,Authentication protocol that uses a challenge-response mechanism to verify identity without transmitting passwords in plaintext.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:45
+KB0000276,1.0,"Security control or action implemented to prevent, detect, or respond to threats and reduce potential impact.",Security Incident Admin,Network,Published,2025-04-21 16:18:45
+KB0000277,1.0,"Initial day of a newly discovered vulnerability or threat, often before any mitigation or patch is available, posing elevated risk.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:45
+KB0000278,1.0,"Reference to access management controls, including user authentication, authorization, and role-based permissions for secure system access.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:45
+KB0000279,1.0,"Core internet routing protocol used to exchange routing information between autonomous systems, enabling efficient path selection across networks.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:45
+KB0000280,1.0,"Basic unit of data in a spreadsheet or table, or a component in cellular networks used to define coverage areas and manage connections.",Security Incident Admin,Data,Published,2025-04-21 16:18:45
+KB0000281,1.0,Systematic approach to maintaining consistency of a product’s performance and functionality through controlled changes and documentation.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:45
+KB0000282,1.0,"Process of analyzing large datasets to discover patterns, trends, or insights, often used in business intelligence and predictive analytics.",Security Incident Admin,Data,Published,2025-04-21 16:18:45
+KB0000283,1.0,"TCP connection establishment process involving SYN, SYN-ACK, and ACK packets to initiate reliable communication between two endpoints.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000284,1.0,"Strategic concept involving conflict between parties of unequal strength, often characterized by unconventional tactics such as cyber attacks or guerrilla operations.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000285,1.0,Security tool designed to simulate vulnerable client behavior in order to detect and analyze malicious server-side activity.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000286,1.0,"Structured approach to managing and responding to cybersecurity incidents, including detection, containment, eradication, and recovery.",Security Incident Admin,Denial of Service,Published,2025-04-21 16:18:46
+KB0000287,1.0,"Reference to a network hub, a basic device that connects multiple Ethernet devices and broadcasts incoming data to all connected ports.",Security Incident Admin,Data,Published,2025-04-21 16:18:47
+KB0000288,1.0,"Concept from the Bell-LaPadula security model, where the Integrity Star Property restricts subjects from writing to objects at higher integrity levels to prevent contamination.",Security Incident Admin,Data,Published,2025-04-21 16:18:47
+KB0000289,1.0,"A targeted policy document addressing a specific security concern or operational issue, outlining rules, responsibilities, and enforcement procedures.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000290,1.0,Scanning activity conducted from multiple sources or nodes to identify vulnerabilities across a network while evading detection.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000291,1.0,Networking concept where data is wrapped with protocol-specific headers and trailers for transmission across different layers of the OSI model.,Security Incident Admin,Data,Published,2025-04-21 16:18:47
+KB0000292,1.0,"Reference to a filter mechanism used in networking or security to selectively allow or block data based on predefined criteria such as IP, protocol, or content.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000293,1.0,"Reference to a Fully-Qualified Domain Name (FQDN), which specifies the exact location of a domain within the DNS hierarchy, including hostname and domain.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000294,1.0,"Reference to a host system or device on a network, which can provide services, run applications, or serve as a node in communication.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000295,1.0,"Strategic use of information and communication technologies to gain advantage in conflicts, including cyber attacks, propaganda, and data manipulation.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:48
+KB0000296,1.0,"A type of denial-of-service attack where excessive IP traffic is directed at a target system, overwhelming its capacity and disrupting normal operations.",Security Incident Admin,Denial of Service,Published,2025-04-21 16:18:48
+KB0000297,1.0,"Layer 2 Tunneling Protocol (L2Tp) is a VPN protocol that tunnels data at Layer 2 of the OSI model, often used with IPsec for secure remote access.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:48
+KB0000298,1.0,"Reference to MD5 (Message Digest Algorithm 5), a cryptographic hash function used for data integrity checks, though now considered insecure for sensitive applications.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:48
+KB0000299,1.0,"Reference to the gethostbyname function, used in programming to resolve a hostname into an IP address, often in legacy network applications.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000300,1.0,Security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules to prevent unauthorized access.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:47
+KB0000301,1.0,"Signal sent to the processor to temporarily halt current operations and execute a higher-priority task, often used in hardware and software coordination.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000302,1.0,"Cryptographic technique used to verify the authenticity and integrity of digital messages or documents, typically using public key infrastructure.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:46
+KB0000303,1.0,Security risk involving unauthorized retrieval of sensitive information from discarded physical materials such as documents or hardware.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000304,1.0,"Configuration or troubleshooting of Extended Access Control Lists (ACLs) in Cisco devices, allowing granular traffic filtering based on source, destination, and protocol.",Security Incident Admin,Standards,Published,2025-04-21 16:18:47
+KB0000305,1.0,"Authentication method where users submit credentials through a web form, often used in web applications to control access to protected resources.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:47
+KB0000306,1.0,"Reference to a hash function, a mathematical algorithm that converts data into a fixed-size string, commonly used for data integrity and cryptographic applications.",Security Incident Admin,Data,Published,2025-04-21 16:18:47
+KB0000307,1.0,"Topic involving HTML, the standard markup language used to structure and display content on the web, including text, images, and links.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:47
+KB0000308,1.0,"Reference to IMAP, a protocol used by email clients to retrieve and manage messages stored on a mail server, supporting synchronization across devices.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:47
+KB0000309,1.0,Authentication protocol that uses tickets and symmetric key cryptography to securely verify user identities in distributed network environments.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:47
+KB0000310,1.0,"Cryptographic protocol used for secure key exchange over an insecure channel, enabling two parties to establish a shared secret without transmitting it directly.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:47
+KB0000311,1.0,"Reference to DNS, the hierarchical system that translates human-readable domain names into IP addresses for locating resources on the internet.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:47
+KB0000312,1.0,"Networking technology used for local area networks (LANs), enabling devices to communicate via standardized protocols over wired connections.",Security Incident Admin,Standards,Published,2025-04-21 16:18:47
+KB0000313,1.0,"Security principle of non-repudiation, ensuring that actions or communications cannot be denied by the parties involved, often supported by digital signatures.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:48
+KB0000314,1.0,"Patch is a software update that fixes vulnerabilities, improves performance, or adds new features.",Security Incident Admin,Software,Published,2025-04-21 16:18:30
+KB0000315,1.0,Phishing is a cyberattack that tricks users into revealing sensitive information through deceptive messages.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:30
+KB0000316,1.0,Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy and authentication for data.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:30
+KB0000317,1.0,Reconnaissance is the initial phase of an attack where adversaries gather information about a target system.,Security Incident Admin,Hack,Published,2025-04-21 16:18:30
+KB0000318,1.0,Root is the highest-level user account in a system with unrestricted access to all commands and files.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000319,1.0,Separation of duties ensures that no single individual has control over all aspects of a critical process.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000320,1.0,Lightweight Directory Access Protocol (LDAP) is a protocol used to access and manage directory information services over an IP network.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:31
+KB0000321,1.0,"Morris Worm was one of the first computer worms to spread via the internet, causing a large-scale denial-of-service attack by exploiting vulnerabilities in the Unix operating system.",Security Incident Admin,Software,Published,2025-04-21 16:18:31
+KB0000322,1.0,"One-Way Encryption converts data into a secure format that cannot be reversed, used for password storage.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:31
+KB0000323,1.0,Penetration testing simulates cyberattacks to identify vulnerabilities in systems and networks.,Security Incident Admin,Network,Published,2025-04-21 16:18:31
+KB0000324,1.0,"Possession refers to the state of having control over data or resources, relevant in access control models.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000325,1.0,Public-Key Forward Secrecy (PFS) ensures that session keys cannot be compromised even if the private key is exposed later.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:31
+KB0000326,1.0,Risk assessment identifies potential threats and evaluates their impact on system security and operations.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000327,1.0,"OSI layers define a seven-layer model for network communication, from physical transmission to application.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:30
+KB0000328,1.0,NAT (Network Address Translation) enables multiple devices to share a single IP address for internet access.,Security Incident Admin,Network,Published,2025-04-21 16:18:30
+KB0000329,1.0,Polyinstantiation allows multiple records with the same key but different access levels to prevent inference attacks.,Security Incident Admin,Data,Published,2025-04-21 16:18:30
+KB0000330,1.0,"Proxy Server acts as an intermediary between clients and servers, used for filtering, caching, or anonymity.",Security Incident Admin,Network,Published,2025-04-21 16:18:30
+KB0000331,1.0,"Reverse engineering analyzes software or hardware to understand its design, often for debugging or security.",Security Incident Admin,Data,Published,2025-04-21 16:18:30
+KB0000332,1.0,"Safety in IT security refers to measures that protect systems and users from harm, accidents, or misuse.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:30
+KB0000333,1.0,MAC address is a unique identifier assigned to a network interface for communication on a physical network.,Security Incident Admin,Network,Published,2025-04-21 16:18:30
+KB0000334,1.0,Network Address Translation (NAT) modifies IP address information to enable devices to share a single public IP.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:30
+KB0000335,1.0,Partitions divide system resources or data into isolated segments to enhance security and performance.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:30
+KB0000336,1.0,Plaintext refers to unencrypted data that is readable without any cryptographic processing.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:30
+KB0000337,1.0,"Promiscuous mode allows a network device to intercept and read all traffic on the network, not just its own.",Security Incident Admin,Network,Published,2025-04-21 16:18:30
+KB0000338,1.0,Request For Comment (RFC) is a formal document from the IETF describing standards and protocols for the internet.,Security Incident Admin,Standards,Published,2025-04-21 16:18:30
+KB0000339,1.0,Routing Loop occurs when data packets circulate endlessly due to incorrect routing configurations.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:30
+KB0000340,1.0,Log Clipping involves removing or hiding portions of system logs to conceal unauthorized activity.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:30
+KB0000341,1.0,Secure Sockets Layer (SSL) is a protocol for establishing encrypted links between web servers and browsers to secure data transfer.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:31
+KB0000342,1.0,Shell is a command-line interface that allows users to interact with the operating system.,Security Incident Admin,Software,Published,2025-04-21 16:18:31
+KB0000343,1.0,Star Property ensures that subjects can only write to objects at their own or lower security levels.,Security Incident Admin,Data,Published,2025-04-21 16:18:32
+KB0000344,1.0,Switched Network uses switches to direct data packets to their destination efficiently.,Security Incident Admin,Network,Published,2025-04-21 16:18:32
+KB0000345,1.0,Tcpdump is a command-line packet analyzer used to capture and inspect network traffic.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:32
+KB0000346,1.0,Triple-Wrapped encryption uses three layers of cryptographic protection to secure sensitive data.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:32
+KB0000347,1.0,Virus is a type of malicious software that replicates itself and spreads to other systems.,Security Incident Admin,Software,Published,2025-04-21 16:18:32
+KB0000348,1.0,Worm is a self-replicating malware that spreads across networks without user intervention.,Security Incident Admin,Software,Published,2025-04-21 16:18:32
+KB0000349,1.0,Simple Network Management Protocol (SNMP) is a protocol used to monitor and manage network devices such as routers and switches.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:32
+KB0000350,1.0,Spoof is the act of falsifying identity or data to gain unauthorized access or mislead systems.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:32
+KB0000351,1.0,Strong Star Property ensures that access control decisions are based on both subject and object labels.,Security Incident Admin,Data,Published,2025-04-21 16:18:32
+KB0000352,1.0,"Tcp Full Open Scan checks for open ports by completing the full TCP handshake, revealing active services.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:33
+KB0000353,1.0,"Traceroute (Tracert.Exe) maps the path packets take across networks, helping diagnose routing issues and delays.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:33
+KB0000354,1.0,User is an individual or entity authorized to access and interact with a system or application.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:33
+KB0000355,1.0,Sniffer is a tool used to capture and analyze network traffic for monitoring or troubleshooting.,Security Incident Admin,Network,Published,2025-04-21 16:18:32
+KB0000356,1.0,War Dialer is a tool that automatically dials phone numbers to find modems or remote access systems.,Security Incident Admin,Software,Published,2025-04-21 16:18:32
+KB0000357,1.0,"Spam refers to unsolicited messages, often sent in bulk, that can disrupt communication and pose security risks.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000358,1.0,Stimulus in networking refers to an event or signal that triggers a response or action in a system.,Security Incident Admin,Network,Published,2025-04-21 16:18:31
+KB0000359,1.0,System-Specific Policy defines security rules tailored to individual systems or applications.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000360,1.0,Token Ring is a network protocol where devices pass a token to control access to the network.,Security Incident Admin,Data,Published,2025-04-21 16:18:31
+KB0000361,1.0,"Uniform Resource Identifier (URI) is a string used to identify a resource on the internet, such as a webpage or file.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:31
+KB0000362,1.0,Web Server is software or hardware that delivers web content to users over the internet.,Security Incident Admin,Software,Published,2025-04-21 16:18:31
+KB0000363,1.0,Session Key is a temporary encryption key used for a single communication session.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:32
+KB0000364,1.0,Socket Pair consists of two endpoints used for bidirectional communication between processes.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:32
+KB0000365,1.0,Static Routing uses manually configured routes that do not change unless updated by an administrator.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:32
+KB0000366,1.0,Syn Flood is a DoS attack that overwhelms a server by sending repeated SYN requests without completing handshakes.,Security Incident Admin,Denial of Service,Published,2025-04-21 16:18:32
+KB0000367,1.0,Threat Model identifies potential security risks and outlines strategies to mitigate them.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:32
+KB0000368,1.0,Trusted Ports are network ports designated for secure and authorized communication.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:32
+KB0000369,1.0,Wired Equivalent Privacy (WEP) is an outdated wireless security protocol that uses weak encryption and is vulnerable to attacks.,Security Incident Admin,Standards,Published,2025-04-21 16:18:33
+KB0000370,1.0,Ack Piggybacking combines acknowledgment and data in a single packet to optimize network efficiency.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:26
+KB0000371,1.0,"Collision occurs when two or more data packets interfere during transmission, causing loss or corruption.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:27
+KB0000372,1.0,Cyclic Redundancy Check (CRC) is an error-detecting code used to check the integrity of data during transmission or storage.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:27
+KB0000373,1.0,Advanced Encryption Standard (AES) is a secure symmetric encryption standard used globally for protecting sensitive data.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:27
+KB0000374,1.0,Bandwidth refers to the maximum data transfer rate of a network or internet connection.,Security Incident Admin,Data,Published,2025-04-21 16:18:27
+KB0000375,1.0,Brute Force attack attempts to guess passwords by systematically trying all possible combinations.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:27
+KB0000376,1.0,Ciphertext is encrypted data that cannot be read without decryption using the correct key.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:28
+KB0000377,1.0,"Crossover Cable is used to connect two similar devices directly, such as two computers or switches.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000378,1.0,Defacement is an attack that alters the appearance or content of a website or system interface.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000379,1.0,Disassembly is the process of converting machine code back into assembly language for analysis or debugging.,Security Incident Admin,Software,Published,2025-04-21 16:18:28
+KB0000380,1.0,Eavesdropping is the unauthorized interception of network communications to gather sensitive data.,Security Incident Admin,Network,Published,2025-04-21 16:18:28
+KB0000381,1.0,False Rejects occur when a valid user is incorrectly denied access by an authentication system.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:28
+KB0000382,1.0,"Fragment offset indicates the position of a fragment within the original IP packet, used in reassembly.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000383,1.0,"Byte is a unit of digital information consisting of eight bits, used to encode data.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:27
+KB0000384,1.0,Bind is a widely used DNS software that translates domain names into IP addresses.,Security Incident Admin,Network,Published,2025-04-21 16:18:27
+KB0000385,1.0,Authorization determines what resources a user is allowed to access after authentication.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:26
+KB0000386,1.0,British Standard 7799 outlines best practices for information security management systems.,Security Incident Admin,Standards,Published,2025-04-21 16:18:26
+KB0000387,1.0,Chain Of Custody documents the handling of evidence to maintain its integrity during investigations.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:27
+KB0000388,1.0,Cost Benefit Analysis evaluates the trade-offs between security investments and potential risk reduction.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:27
+KB0000389,1.0,Datagram is a self-contained packet of data sent over a network without guaranteed delivery.,Security Incident Admin,Data,Published,2025-04-21 16:18:27
+KB0000390,1.0,Access Control Service manages user permissions and enforces security policies across systems.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:27
+KB0000391,1.0,Authenticity verifies that data or communication originates from a trusted source.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:27
+KB0000392,1.0,Boot Record Infector is malware that targets the boot sector to execute before the operating system loads.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:27
+KB0000393,1.0,Call Admission Control (CAC) controls network traffic admission based on bandwidth availability and policy rules.,Security Incident Admin,Network,Published,2025-04-21 16:18:27
+KB0000394,1.0,Confidentiality ensures that sensitive data is protected from unauthorized access or disclosure.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:27
+KB0000395,1.0,"Data Encryption Standard (DES) is a symmetric-key encryption algorithm used to secure digital data, now considered outdated.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:27
+KB0000396,1.0,Asymmetric Cryptography uses a pair of keys (public and private key) for secure communication and authentication.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:27
+KB0000397,1.0,Hijack Attack involves taking control of a session or system to impersonate a legitimate user.,Security Incident Admin,Hack,Published,2025-04-21 16:18:28
+KB0000398,1.0,Incident in networking refers to any event that disrupts normal operations or poses a security threat.,Security Incident Admin,Network,Published,2025-04-21 16:18:28
+KB0000399,1.0,Gethostbyaddr is a function that resolves an IP address to its corresponding hostname.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000400,1.0,HTTPS is a secure version of HTTP that uses encryption to protect data exchanged between browser and server.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:29
+KB0000401,1.0,"Integrity ensures that data remains accurate, consistent, and unaltered during storage or transmission.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000402,1.0,"ISO develops international standards to ensure quality, safety, and efficiency across industries.",Security Incident Admin,Standards,Published,2025-04-21 16:18:29
+KB0000403,1.0,Distance Vector routing calculates the best path based on the number of hops to the destination.,Security Incident Admin,Network,Published,2025-04-21 16:18:29
+KB0000404,1.0,Emanations Analysis detects information leakage through electromagnetic signals or other emissions.,Security Incident Admin,Data,Published,2025-04-21 16:18:29
+KB0000405,1.0,File Transfer Protocol (FTP) is a protocol used to transfer files between computers over a network.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:29
+KB0000406,1.0,Full Duplex allows simultaneous two-way communication between devices over a network.,Security Incident Admin,Data,Published,2025-04-21 16:18:29
+KB0000407,1.0,Hops refer to the number of intermediate devices a packet passes through from source to destination.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000408,1.0,Inference Attack deduces sensitive information by analyzing seemingly unrelated data.,Security Incident Admin,Hack,Published,2025-04-21 16:18:29
+KB0000409,1.0,Ip Address is a unique identifier assigned to each device connected to a network.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:29
+KB0000410,1.0,Masquerade Attack occurs when an attacker pretends to be an authorized user to gain access.,Security Incident Admin,Hack,Published,2025-04-21 16:18:29
+KB0000411,1.0,Fingerprinting identifies unique characteristics of a system or device to track or analyze its behavior.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000412,1.0,Escrow Passwords are stored securely by a third party to allow recovery in case of loss or compromise.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000413,1.0,Internet Standard defines protocols and practices that ensure interoperability across systems and networks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000414,1.0,Layer 2 Forwarding Protocol (L2F) is a tunneling protocol used to establish secure connections over public networks.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:28
+KB0000415,1.0,Digital Envelope combines encrypted data and an encrypted key to securely transmit information.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:28
+KB0000416,1.0,DumpSec is a security auditing tool used to analyze permissions and user rights on Windows systems.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000417,1.0,Exposure refers to the state where sensitive data or systems are accessible to unauthorized entities.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:28
+KB0000418,1.0,Fork Bomb is a denial-of-service attack that rapidly creates processes to exhaust system resources.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000419,1.0,Hardening involves securing a system by reducing vulnerabilities through configuration and updates.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000420,1.0,Hyperlink is a reference that links users to another document or webpage when clicked.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:28
+KB0000421,1.0,"Internet Engineering Task Force (LETF) develops and promotes voluntary internet standards, including protocols like TCP/IP.",Security Incident Admin,Standards,Published,2025-04-21 16:18:29
+KB0000422,1.0,Jump Bag contains essential tools and resources for rapid response to IT security incidents.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000423,1.0,Dictionary Attack attempts to guess passwords using a list of common words and phrases.,Security Incident Admin,Hack,Published,2025-04-21 16:18:29
+KB0000424,1.0,Domain Name is a human-readable address used to identify and access websites on the internet.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000425,1.0,Non-Printable Character are control codes that do not represent visible symbols but affect data handling.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:29
+KB0000426,1.0,Ping sweep is a network scanning technique used to identify active hosts by sending ICMP (Internet Control Message Protocol) echo requests.,Security Incident Admin,Hack,Published,2025-04-21 16:18:36
+KB0000427,1.0,"Penetration refers to unauthorized access into a system, often used to test or exploit vulnerabilities.",Security Incident Admin,Authentication,Published,2025-04-21 16:18:37
+KB0000428,1.0,"Technique used to identify open ports and services on a host, often as part of vulnerability assessments or reconnaissance.",Security Incident Admin,Network,Published,2025-04-21 16:18:37
+KB0000429,1.0,"Framework for managing digital certificates and public-key encryption, enabling secure communication and identity verification",Security Incident Admin,Authentication,Published,2025-04-21 16:18:37
+KB0000430,1.0,"Potential for loss or damage when a threat exploits a vulnerability, often assessed to guide security planning and mitigation.",Security Incident Admin,Hack,Published,2025-04-21 16:18:37
+KB0000431,1.0,"Protocol that provides encrypted remote access to systems, commonly used for secure command-line administration.",Security Incident Admin,Software,Published,2025-04-21 16:18:37
+KB0000432,1.0,"Access control model where permissions are enforced by a central authority based on classifications, not user discretion.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000433,1.0,"Intrusion detection system that monitors network traffic for suspicious activity, typically deployed at strategic points in the infrastructure.",Security Incident Admin,Data,Published,2025-04-21 16:18:37
+KB0000434,1.0,"Unauthorized interception of passwords during transmission, often using packet sniffers to exploit unencrypted protocols.",Security Incident Admin,Network,Published,2025-04-21 16:18:37
+KB0000435,1.0,Routing strategy that advertises unreachable routes with infinite metrics to prevent routing loops in distance-vector protocols.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000436,1.0,"Layered framework that defines how data is transmitted across networks, with each layer handling specific communication functions.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:37
+KB0000437,1.0,"Reverse Address Resolution Protocol (RARP) maps a physical MAC address to an IP address, enabling devices to discover their network identity.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:37
+KB0000438,1.0,S/Key is a one-time password system that enhances authentication by preventing replay attacks.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:37
+KB0000439,1.0,"An octet is a unit of digital information that consists of eight bits, commonly used in IP addressing.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000440,1.0,Monoculture in IT refers to environments where identical systems increase vulnerability to attacks.,Security Incident Admin,Software,Published,2025-04-21 16:18:36
+KB0000441,1.0,Program Policy defines rules and guidelines for software usage and security within an organization.,Security Incident Admin,Software,Published,2025-04-21 16:18:36
+KB0000442,1.0,Regression Analysis is a statistical method used to identify relationships between variables in software performance.,Security Incident Admin,Software,Published,2025-04-21 16:18:36
+KB0000443,1.0,Routing Information Protocol (RIP) uses hop count to determine the best path for data transmission.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:36
+KB0000444,1.0,Loadable Kernel Modules (LKM) can be dynamically loaded to extend operating system functionality.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:36
+KB0000445,1.0,Multiplexing allows multiple signals or data streams to share a single communication channel.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:36
+KB0000446,1.0,OSI is a reference model that standardizes network communication into seven distinct layers.,Security Incident Admin,Standards,Published,2025-04-21 16:18:36
+KB0000447,1.0,Pharming redirects users to fake websites to steal credentials or sensitive data.,Security Incident Admin,Hack,Published,2025-04-21 16:18:36
+KB0000448,1.0,A preamble is a signal used in data transmission to synchronize communication between devices.,Security Incident Admin,Data,Published,2025-04-21 16:18:36
+KB0000449,1.0,Radiation Monitoring involves detecting and measuring radiation levels for safety and compliance.,Security Incident Admin,Data,Published,2025-04-21 16:18:36
+KB0000450,1.0,Role Based Access Control (RBAC) restricts system access based on user roles and responsibilities.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:36
+KB0000451,1.0,Sensitive Information includes data that must be protected from unauthorized access or disclosure.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:36
+KB0000452,1.0,Legion is a network reconnaissance tool used to identify vulnerabilities and gather system information.,Security Incident Admin,Software,Published,2025-04-21 16:18:36
+KB0000453,1.0,Session hijacking is the act of taking over a valid user session to gain unauthorized access.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000454,1.0,A socket is a software endpoint that enables communication between devices over a network.,Security Incident Admin,Data,Published,2025-04-21 16:18:37
+KB0000455,1.0,Cryptographic approach where a key is divided into parts and distributed among multiple parties to enhance security and control.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:38
+KB0000456,1.0,"Encryption method that processes data one bit or byte at a time, often used for real-time communications due to its speed and simplicity",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:38
+KB0000457,1.0,Technique used to identify operating systems or services by analyzing responses to crafted TCP packets.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:38
+KB0000458,1.0,"Physical or logical arrangement of network devices and connections, influencing performance, scalability, and fault tolerance.",Security Incident Admin,Network,Published,2025-04-21 16:18:38
+KB0000459,1.0,"Network file share that lacks proper access controls, potentially exposing sensitive data to unauthorized users.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:38
+KB0000460,1.0,"Command-line packet analyzer for Windows systems, used to capture and inspect network traffic for diagnostics or security analysis.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:38
+KB0000461,1.0,"Network resource such as a folder or drive that is made accessible to other users or systems, typically governed by access permissions.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:38
+KB0000462,1.0,"Port number used by the sending device in a network communication, helping identify the originating application or process.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:38
+KB0000463,1.0,"Technique for hiding data within other files, such as images or audio, to conceal the existence of the information.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:38
+KB0000464,1.0,Designated individual responsible for overseeing and enforcing an organization’s information security policies and procedures.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000465,1.0,Evasion technique where malicious payloads are split into very small IP fragments to bypass intrusion detection or firewall systems.,Security Incident Admin,Data,Published,2025-04-21 16:18:39
+KB0000466,1.0,"Network communication method where data is sent from one sender to a single specific receiver, commonly used in point-to-point transmissions.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000467,1.0,"Security model rule that prevents subjects from reading data at lower integrity levels, helping maintain data trustworthiness.",Security Incident Admin,Data,Published,2025-04-21 16:18:38
+KB0000468,1.0,"System of interlinked hypertext documents accessed via the internet, enabling users to browse and interact with online content.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:38
+KB0000469,1.0,"Static host tables manually associate hostnames with IP addresses, bypassing DNS resolution.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000470,1.0,A symmetric key is used for both encryption and decryption in secure communications.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:37
+KB0000471,1.0,Threat assessment involves identifying and evaluating potential risks to system security.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000472,1.0,Trust in IT security refers to the confidence in the integrity and reliability of systems and entities.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:37
+KB0000473,1.0,Practice of marking physical locations with symbols to indicate the presence and type of nearby wireless networks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:38
+KB0000474,1.0,"Compromised systems that are remotely controlled by attackers, often used as part of a botnet to launch coordinated cyber attacks.",Security Incident Admin,Hack,Published,2025-04-21 16:18:38
+KB0000475,1.0,Denial-of-service attack that uses spoofed ICMP packets to flood a network by exploiting broadcast addresses.,Security Incident Admin,Hack,Published,2025-04-21 16:18:38
+KB0000476,1.0,"Basic Access Control Lists in Cisco devices that filter traffic based solely on source IP addresses, offering limited granularity.",Security Incident Admin,Standards,Published,2025-04-21 16:18:38
+KB0000477,1.0,Network device that connects devices within a LAN and uses MAC addresses to forward data only to the intended recipient.,Security Incident Admin,Data,Published,2025-04-21 16:18:38
+KB0000478,1.0,"Foundational suite of communication protocols used for transmitting data across interconnected networks, including the internet.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:38
+KB0000479,1.0,Symmetric encryption algorithm that applies the DES cipher three times to each data block for enhanced security,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:38
+KB0000480,1.0,"Secure network connection established over a public network, encrypting traffic to protect data and maintain privacy.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:38
+KB0000481,1.0,"Decentralized trust model where users validate each other’s identities through mutual endorsements, commonly used in PGP encryption.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:39
+KB0000482,1.0,Access Control List (ACL) defines permissions for users and systems to access resources or services.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:33
+KB0000483,1.0,Cron is a time-based job scheduler in Unix-like systems used to automate repetitive tasks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:34
+KB0000484,1.0,Decryption is the process of converting encrypted data back into its original readable form.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:34
+KB0000485,1.0,Account Harvesting is a technique used to collect valid usernames for use in further attacks.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:34
+KB0000486,1.0,"Bridge connects two or more network segments, operating at the data link layer to forward traffic.",Security Incident Admin,Software,Published,2025-04-21 16:18:34
+KB0000487,1.0,CGI enables web servers to execute external programs and generate dynamic web content.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:34
+KB0000488,1.0,"Corruption refers to the unintended alteration of data, often resulting in loss of integrity or access.",Security Incident Admin,Data,Published,2025-04-21 16:18:34
+KB0000489,1.0,Data Warehousing involves collecting and managing large volumes of structured data for analysis.,Security Incident Admin,Data,Published,2025-04-21 16:18:34
+KB0000490,1.0,Digital Certificate verifies the identity of entities online and enables secure communication via encryption.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:34
+KB0000491,1.0,Due diligence is the process of evaluating risks and controls before implementing security measures.,Security Incident Admin,Recovery Plan,Published,2025-04-21 16:18:34
+KB0000492,1.0,Eexponential backoff algorithm reduces network congestion by spacing out retry attempts.,Security Incident Admin,Data,Published,2025-04-21 16:18:34
+KB0000493,1.0,Forest is a collection of one or more domain trees that share a common schema in a directory services. ,Security Incident Admin,Data,Published,2025-04-21 16:18:34
+KB0000494,1.0,Gnutella is a decentralized peer-to-peer network protocol used for file sharing.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:34
+KB0000495,1.0,"Cipher is an algorithm used to encrypt and decrypt data, ensuring confidentiality and integrity.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:34
+KB0000496,1.0,Browser is a software application used to access and interact with web content and services.,Security Incident Admin,Software,Published,2025-04-21 16:18:33
+KB0000497,1.0,Authentication verifies the identity of users or systems before granting access to resources.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:33
+KB0000498,1.0,"Block Cipher encrypts data in fixed-size blocks using a symmetric key, commonly used in secure protocols.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:33
+KB0000499,1.0,Cache Poisoning manipulates cached DNS data to redirect users to malicious sites.,Security Incident Admin,Data,Published,2025-04-21 16:18:33
+KB0000500,1.0,Computer Network is a system of interconnected devices that share resources and communicate digitally.,Security Incident Admin,Data,Published,2025-04-21 16:18:33
+KB0000501,1.0,Data Custodian is responsible for managing and safeguarding data assets in accordance with policies.,Security Incident Admin,Data,Published,2025-04-21 16:18:33
+KB0000502,1.0,"Arpanet was the precursor to the modern internet, developed for secure and resilient communication.",Security Incident Admin,Network,Published,2025-04-21 16:18:33
+KB0000503,1.0,"Bastion Host is a hardened system exposed to external networks, used to protect internal infrastructure.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:33
+KB0000504,1.0,Business Impact Analysis (BIA) identifies critical functions and assesses the impact of disruptions.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:33
+KB0000505,1.0,Cold/Warm/Hot Disaster Recovery Site provide varying levels of readiness for restoring operations.,Security Incident Admin,Data,Published,2025-04-21 16:18:33
+KB0000506,1.0,"Cut-Through switching forwards packets before they are fully received, reducing latency but risking errors.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:33
+KB0000507,1.0,"Address Resolution Protocol (ARP) maps IP addresses to MAC addresses, enabling devices to locate each other on a local network.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:33
+KB0000508,1.0,"Backdoor is a cyberattack where an attacker gains unauthorized access to a system, network, or application by exploiting hidden entry points.",Security Incident Admin,Hack,Published,2025-04-21 16:18:33
+KB0000509,1.0,Hybrid Encryption combines symmetric and asymmetric encryption to balance performance and security.,Security Incident Admin,Cryptography,Published,2025-04-21 16:18:34
+KB0000510,1.0,"Internet Control Message Protocol (ICMP) is a network protocol used for diagnostics and error reporting, such as with ping commands.",Security Incident Admin,Standards,Published,2025-04-21 16:18:34
+KB0000511,1.0,Inetd (XINETD) is a daemon that manages incoming network connections for various services.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000512,1.0,Intrusion Detection involves monitoring systems for signs of unauthorized access or malicious activity.,Security Incident Admin,Hack,Published,2025-04-21 16:18:35
+KB0000513,1.0,"Digital Signature Standard (DSS) is a federal standard for digital signatures, ensuring data integrity and authentication.",Security Incident Admin,Cryptography,Published,2025-04-21 16:18:35
+KB0000514,1.0,Dynamic Routing Protocol automatically adjust paths based on network changes to optimize traffic flow.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:35
+KB0000515,1.0,Exterior Gateway Protocol (EGP) is used to exchange routing information between different autonomous systems.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:35
+KB0000516,1.0,"Forward Proxy routes client requests to external servers, often used for filtering and anonymity.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000517,1.0,Header is metadata at the beginning of a data packet that helps route and interpret the packet.,Security Incident Admin,Protocol,Published,2025-04-21 16:18:35
+KB0000518,1.0,Identity refers to the unique attributes used to verify and manage users in a system.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000519,1.0,Internet Protocol Security (IPSEC) is a suite of protocols that secures IP communications through authentication and encryption.,Security Incident Admin,Standards,Published,2025-04-21 16:18:35
+KB0000520,1.0,Lattice Techniques are security models that enforce access control based on hierarchical classifications.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:36
+KB0000521,1.0,Loopback Address (typically 127.0.0.1) is used to test internal network functionality on a local device.,Security Incident Admin,Network,Published,2025-04-21 16:18:36
+KB0000522,1.0,"Netmask Internet Control Message Protocol defines the range of IP addresses within a subnet, crucial for routing and access control.",Security Incident Admin,Network,Published,2025-04-21 16:18:36
+KB0000523,1.0,Honeymonkey is a security tool that simulates user behavior to detect malicious websites.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000524,1.0,Frames are data structures used in networking to encapsulate packets for transmission.,Security Incident Admin,Data,Published,2025-04-21 16:18:35
+KB0000525,1.0,"Jitter refers to the variation in packet arrival times, which can affect real-time communications.",Security Incident Admin,Data,Published,2025-04-21 16:18:34
+KB0000526,1.0,Denial Of Service (DoS) is an attack that disrupts system availability by overwhelming resources or services.,Security Incident Admin,Authentication,Published,2025-04-21 16:18:34
+KB0000527,1.0,"Domain hijacking involves unauthorized access or transfer of domain ownership, often through credential theft.",Security Incident Admin,Hack,Published,2025-04-21 16:18:34
+KB0000528,1.0,Ephemeral Port is a temporary port used for client-side communication in network connections.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:34
+KB0000529,1.0,"Finger is a protocol used to retrieve user information from remote systems, often disabled for security.",Security Incident Admin,Protocol,Published,2025-04-21 16:18:35
+KB0000530,1.0,Gateway connects different networks and translates communication protocols between them.,Security Incident Admin,Network,Published,2025-04-21 16:18:35
+KB0000531,1.0,"Http Proxy acts as an intermediary between clients and servers, often used for filtering or caching.",Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000532,1.0,Input validation attacks exploit improper handling of user input to execute malicious code or commands.,Security Incident Admin,Hack,Published,2025-04-21 16:18:35
+KB0000533,1.0,IP spoofing is a technique where an attacker disguises their IP address to impersonate another device.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000534,1.0,Disruption refers to any event or action that interrupts normal system operations or availability.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000535,1.0,Egress Filtering controls outbound traffic to prevent data exfiltration and unauthorized communication.,Security Incident Admin,Security Incident,Published,2025-04-21 16:18:35
+KB0000536,1.0,Fault Line Attacks exploit system boundaries or inconsistencies to bypass security controls.,Security Incident Admin,Hack,Published,2025-04-21 16:18:35
+KB0000537,1.0,"Packet Switched Network transmits data in discrete units, improving efficiency and fault tolerance.",Security Incident Admin,Network,Published,2025-04-21 16:18:36
+KB0000700,1.0,"Frequently Asked Questions (FAQ) for employees considering voluntary separation, covering eligibility, benefits, and next steps.",System Administrator,FAQ,Published,2022-01-24 03:44:22
+KB0000702,1.0,"Frequently Asked Questions (FAQ) for managers handling voluntary separations, including communication tips and process steps",System Administrator,FAQ,Published,2022-01-24 03:46:46
+KB0000703,1.0,Instruction on how to update placeholder links in the Parental Leave of Absence Guide.,System Administrator,FAQ,Published,2024-05-21 03:29:05
+KB0000704,1.0,FAQ addressing common questions about parental leave policies and procedures.,System Administrator,Leave of Absence,Published,2024-05-23 04:35:33
+KB0000705,1.0,"Tips for discussing your leave of absence with your manager, including timing and documentation.",System Administrator,Leave of Absence,Published,2021-04-29 18:48:12
+KB0000706,1.0,"A guide for managers to support employees during parental leave, including planning and transition steps.",System Administrator,Benefits,Published,2021-04-29 18:48:12
+KB0000707,1.0,"Preparation checklist for employees planning parental leave, including documentation and timelines.",System Administrator,Benefits,Published,2021-04-29 18:48:12
+KB0000708,1.0,Guide for planning and managing transitions during employee leaves of absence.,System Administrator,Leave of Absence,Published,2021-04-29 18:48:12
+KB0000709,1.0,Transition planning guide for managers supporting employees on leave of absence.,System Administrator,Leave of Absence,Published,2021-04-29 18:48:12
+KB0005001,2.0,"Workstation Security Standard defines standards for securing workstations, including access controls, patching, and monitoring.",System Administrator,Security,Published,2025-04-21 16:18:35
+KB0005010,3.0,"Specifications or prerequisites needed for software or systems to operate effectively on macOS, including hardware, compatibility, and security standards.",Bernard Laboy,Apple,Published,2025-04-21 16:18:45
+KB0005012,1.0,"Guidance for regaining access to a computer after being locked out, including password reset procedures, account recovery, or contacting IT support.",Ted Bozelle,IT,Published,2025-04-21 16:18:40
+KB0010001,1.0,"Outlook emails are remaining in the Outbox and failing to send, potentially due to connectivity issues, authentication errors, or misconfigured settings.",Ya Teng Chia,Outlook 2010,Published,2025-07-29 18:59:33
+KB1010001,,"Issue where the USB port fails to recognize or power connected devices, potentially due to driver problems, hardware faults, or power settings.",System Administrator,IT,Published,2025-04-21 16:18:44
+KB2010001,1.0,Task involving the configuration of hyperlinks between knowledge articles and prebuilt content items to enhance navigation and usability.,System Administrator,Content Governance,Published,2025-04-21 16:18:40
+KB3010001,1.0,Instructions for configuring Manager Hub links used in placeholder content items for internal navigation.,System Administrator,Management Guide,Published,2025-04-21 16:18:31
+KB4010001,1.0,Overview of different role types within the organization and their responsibilities.,System Administrator,Access Management,Published,2025-04-21 16:18:27
+KB5010001,1.0,Summary of Family and Medical Leave Act (FMLA) provisions and company leave policies.,System Administrator,Benefits,Published,2021-04-29 18:48:12
+KB0010002,1.0,"Life Feed Application (demo data for a ""What is"" template) is a sample entry used to demonstrate content structure in a “What is” template, typically for training or template testing.",System Administrator,Applications,Published,2025-04-21 16:18:32
+KB1010002,1.0,Defines policies for handling Personally Identifiable Information (PII) to ensure privacy and compliance.,System Administrator,Data Protection,Published,2025-04-21 16:18:31
+KB2010002,1.0,"Overview of long-term disability benefits in the U.S., including eligibility and claims process.",System Administrator,Benefits,Published,2021-04-29 18:48:12
+KB0010003,2.0,"A user has reported not receiving the Weekly Project Financial Report, potentially due to scheduling, permission, or system delivery failures.",Ya Teng Chia,Reporting,Published,2025-09-07 20:29:55
+KB1010003,,"Issue where the Cisco WebEx Meetings Server fails to start following deployment, possibly due to configuration errors or missing dependencies",System Administrator,Applications,Published,2025-04-21 16:18:43
+KB2010003,1.0,"Overview of short-term disability benefits in the U.S., including coverage and eligibility.",System Administrator,Benefits,Published,2021-04-29 18:48:12
+KB0010004,1.0,"Feedback Mechanisms  in Knowledge (demo data for a ""What is"" template).",System Administrator,Access management,Published,2025-04-21 16:18:28
+KB1010004,1.0,Guidelines for handling and responding to high severity security incidents.,System Administrator,Incident Response,Published,2025-04-21 16:18:26
+KB2010004,1.0,I got paid a different amount than I expected. Explains what to do if your paycheck amount differs from expectations and how to report issues.,System Administrator,Payroll,Published,2021-04-29 18:48:12
+KB0010005,1.0,"Handling security incidents with configuration items by identifying affected assets, assessing impact, and initiating response actions..",System Administrator,Security Incident,Published,2025-04-21 16:18:36
+KB1010005,,"Addresses issues caused by switching to IPv6, including IP conflicts and connectivity problems.",System Administrator,Network,Published,2025-04-21 16:18:28
+KB2010005,1.0,"Employee voice. Describes how employees can share feedback, ideas, and concerns to influence workplace decisions.",System Administrator,Policies,Published,2022-08-22 02:13:24
+KB3010005,,"Outlines company guidelines for domestic travel, including booking, reimbursement, and approval processes.",System Administrator,Policies,Published,2021-08-19 05:49:14
+KB4010005,1.0,My deductions don't look right? Guidance on resolving discrepancies in payroll deductions and understanding common causes.,System Administrator,Payroll,Published,2021-04-29 18:48:12
+KB0010006,1.0,"Process for managing minor security events, including documentation, containment, and resolution without escalation to critical response.",System Administrator,Security Incident,Published,2025-04-21 16:18:44
+KB1010006,1.0,"How to read your pay stub? Explains how to read and understand your pay stub, including earnings, deductions, and taxes.",System Administrator,Payroll,Published,2021-04-29 18:48:12
+KB0010007,1.0,"Users are encountering recurring issues with APIs and plugins integrated with Amazon Q, affecting functionality and system interoperability.",integration user 2,API,Published,2025-09-02 18:50:10
+KB1010007,1.0,Outlines containment procedures to limit the impact of business-critical security incidents.,System Administrator,Incident Response,Published,2025-04-21 16:18:28
+KB2010007,1.0,Career Goals. Answers common questions about setting and tracking career goals.,System Administrator,FAQ,Published,2022-08-22 02:19:25
+KB3010007,1.0,My paystub and my Direct Deposit show different amounts. Explains why your paystub and direct deposit amounts may differ and how to resolve discrepancies.,System Administrator,Payroll,Published,2021-04-29 18:48:12
+KB0010008,2.0,"A user has reported losing access to a previously available feature, which may be due to permission changes, UI updates, or backend errors.",Ya Teng Chia,Permission,Published,2025-09-01 07:41:14
+KB1010008,1.0,Describes procedures for analyzing and responding to security incidents that impact business operations.,System Administrator,Incident Response,Published,2025-04-21 16:18:31
+KB0010009,3.0,"Several reports are failing to load properly, either displaying blank screens or taking an unusually long time to generate, impacting user access to critical data.",integration user 2,Reporting,Published,2025-09-02 23:18:31
+KB1010009,1.0,Coaching and feedback to support employee development.,System Administrator,Training,Published,2022-08-22 02:24:42
+KB0010010,2.0,"Users are encountering permission-related errors when trying to access essential features needed for their roles, suggesting potential misconfigurations in access controls or role assignments.",integration user 2,Reporting,Published,2025-09-02 19:07:57
+KB0010011,1.0,"The application is currently exhibiting degraded performance, including noticeably slower response times and prolonged loading durations across multiple modules.",integration user 2,Applications,Published,2025-09-02 23:20:15
+KB0010013,2.0,"Users are experiencing issues receiving the scheduled Operational Report, which may be missing from expected delivery channels or failing to generate as intended.",integration user 2,Reporting,Published,2025-09-07 20:36:26
+KB0010014,1.0,Guidance for H-1B visa holders on travel and re-entry procedures into the United States.,System Administrator,Compliance,Published,2022-06-13 18:00:34
+KB0010038,3.0,"Defining User Criteria for an Article (demo article for a ""How to"" template and an AQI review).",System Administrator,Access management,Published,2025-04-21 16:18:29
+KB0010039,3.0,"Demonstration article showcasing how to create a knowledge base entry using a ""How to"" template, including an example AQI (Air Quality Index) review.",System Administrator,Content governance,Published,2025-04-21 16:18:49
+KB0011111,1.0,A collection of frequently asked questions (FAQ) for Alumni to support them with common inquiries and resources.,System Administrator,Alumni Support,Published,2025-04-21 16:18:28
+KB0012001,1.0,Failed Login Playbook – Manual runbook outlining steps to investigate and resolve failed login attempts.,System Administrator,Incident Response,Published,2025-04-21 16:18:27
+KB1012001,1.0,Investigation into unusual behavior observed in Litespeed machines during production.,System Administrator,Manufacturing,Published,2024-05-23 03:14:23
+KB0012002,1.0,A manual task requiring review of system logs to identify new observables such as indicators of compromise or anomalous activity.,System Administrator,Security Incident,Published,2025-04-21 16:18:49
+KB1012002,1.0,General Production Process. Overview of the general production process including key stages and responsibilities,System Administrator,Manufacturing,Published,2024-05-22 03:33:02
+KB0012003,1.0,Scheduled or triggered automation that performs threat intelligence lookups and enriches observables with contextual data for analysis.,System Administrator,Security,Published,2025-04-21 16:18:44
+KB1012003,1.0,What to Do Before Starting on the Line. Checklist and preparation steps for workers before starting on the production line.,System Administrator,Manufacturing,Published,2024-05-22 03:35:24
+KB0012004,1.0,Scheduled or triggered automation that searches for sightings of known threats across systems or logs to support threat intelligence.,System Administrator,Security,Published,2025-04-21 16:18:41
+KB1012004,1.0,Troubleshooting guide for handling production machine malfunctions.,System Administrator,Manufacturing,Published,2024-05-22 03:38:39
+KB0012005,1.0,Provides steps to determine if a user account has been compromised and how to respond effectively.,System Administrator,Security Incident,Published,2025-04-21 16:18:34
+KB1012005,1.0,Instructions for determining when it is appropriate to self-access a production machine.,System Administrator,Manufacturing,Published,2024-05-22 03:40:46
+KB0012006,1.0,"Automated workflow that resets user credentials and sends a notification email, streamlining account recovery or onboarding processes.",System Administrator,Access Management,Published,2025-04-21 16:18:41
+KB1012006,1.0,Comprehensive onboarding guide for preparing new workers for production line duties.,System Administrator,Manufacturing,Published,2024-05-23 01:56:40
+KB0012007,1.0,Predefined automation that generates and submits block requests for identified malicious IP addresses and URLs to enhance threat mitigation.,System Administrator,Security,Published,2025-04-21 16:18:39
+KB1012007,1.0,Guidance for maintaining quality control standards in production environments.,System Administrator,Manufacturing,Published,2024-05-23 03:29:14
+KB0012008,1.0,Structured analysis conducted after a security incident to evaluate response effectiveness and identify areas for improvement.,System Administrator,Security Incident,Published,2025-04-21 16:18:41
+KB0012009,1.0,Outlines steps to prevent recurrence of a threat after a security incident has been resolved.,System Administrator,Recovery Plan,Published,2025-04-21 16:18:34
+KB0030011,1.0,"Inquiry or documentation related to gift and meal policies, approvals, or expense claims within the organization.",System Administrator,Compliance,Published,2025-04-21 20:58:00
+KB0050008,1.0,"Importance of 1:1 Meetings. Explains the value of regular 1:1 meetings for employee development, feedback, and engagement.",System Administrator,Training,Published,2023-03-07 04:00:54
+KB0050111,6.0,"Policy outlining leave entitlements for maternity, paternity, and adoption, including eligibility and process.",System Administrator,Policies,Published,2024-11-24 22:01:12
+KB0110011,1.0,"Provides guidance for managers on navigating and supporting employee journeys, including onboarding, development, and transitions.",System Administrator,Management Guide,Published,2025-04-21 16:18:33
+KB0110012,1.0,"Employee Guide to Journeys is an internal resource providing employees with guidance on using the Journeys platform, including onboarding, navigation, and support.",System Administrator,Management Guide,Published,2025-04-21 16:18:48
+KB0230003,1.0,"Restricted Stock Units (RSU) FAQ's. Answers common questions about Restricted Stock Units (RSUs), including vesting and taxation.",System Administrator,Employment,Published,2023-05-09 01:25:49
+KB0400001,1.0,Instructions for submitting anonymous reports and tracking their resolution through internal channels.,System Administrator,FAQ,Published,2021-09-24 14:48:37
+KB4000039,1.0,"Company policy outlining travel and expense procedures, reimbursement rules, and approval workflows.",System Administrator,Policies,Published,2021-02-05 09:59:45
+KB5000002,1.0,Safe Harbor Statement protects companies from liability when making forward-looking statements under securities law.,System Administrator,Compliance,Published,2023-05-09 22:16:31
+KB5000003,1.0,Patent Process and Policy. Outlines the process and policy for filing and managing patents within the organization.,System Administrator,Intellectual Property,Published,2023-05-09 22:17:21
+KB5000006,1.0,Reference to the standard Non-Disclosure Agreement (NDA) template used for external engagements or internal confidentiality agreements.,System Administrator,Sales,Published,2025-04-21 20:52:08
+KB5000008,1.0,Announcement and details of the updated company travel policy for 2024.,System Administrator,Policies,Published,2024-03-20 08:58:12
+KB5000010,1.0,"Guide to Intellectual Property. Provides an overview of intellectual property rights, including patents, trademarks, and copyrights.",System Administrator,Intellectual Property,Published,2023-05-09 22:15:20
+KB5000015,1.0,"Information or request related to professional or compliance certifications, including tracking, renewal, or verification processes.",System Administrator,Compliance,Published,2025-04-21 20:41:49
+KB5000016,1.0,Insider Trading Policy. Outlines rules and restrictions to prevent insider trading and protect market integrity.,System Administrator,Compliance,Published,2023-05-09 02:13:25
+KB5000034,1.0,Disclose Conflict of Interest. Instructions for disclosing potential conflicts of interest to maintain transparency and compliance.,System Administrator,Compliance,Published,2023-05-09 22:13:15
+KB99999999,1.0,Troubleshooting guide for common issues encountered in Microsoft Outlook.,System Administrator,Microsoft,Published,2019-02-22 05:12:54
