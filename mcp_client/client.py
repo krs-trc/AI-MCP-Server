@@ -1,5 +1,7 @@
 import asyncio
 import datetime
+import os
+from dotenv import load_dotenv
 from typing import TypedDict, List, Optional
 
 from fastmcp import Client
@@ -19,7 +21,10 @@ from rich.text import Text
 # ----------------------------------------------------------------
 MCP_URL = "http://localhost:8000/mcp"
 client = Client(MCP_URL)
-gemini = genai.Client(api_key="AIzaSyBIGaGEwxj7EJIuo3Gj0M1YGPqN6ZgSGs4") 
+
+load_dotenv()
+gemini_api_key = os.getenv("GEMINI_API_KEY")
+gemini = genai.Client(api_key=gemini_api_key) 
 
 console = Console()
 
